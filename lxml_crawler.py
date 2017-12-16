@@ -5,8 +5,7 @@ from lxml import html
 
 url_jianshu = "http://www.jianshu.com/"
 
-# 怡小乐主页
-url_yixiaole = "u/49cc02f7f8c6" 
+url_yixiaole = "xxxxxxxxxxxxxxx" 
 
 
 
